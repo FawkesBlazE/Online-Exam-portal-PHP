@@ -18,4 +18,4 @@ Steps 1. Download zip file and Unzip file on your local server.
 4. Open Your browser put inside "http://localhost/Online_exam_New/" 
 5. To Login as admin put "http://localhost/Online_exam_New/admin" 
 
-Admin Login Details Login Id: admin@aadmin.com Pass: admin
+Admin Login Details Login Id: admin@admin.com Pass: admin
